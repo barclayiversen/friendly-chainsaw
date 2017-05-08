@@ -5,4 +5,4 @@ deployment:
   prod:
     branch: master
     commands:
-      - aws s3 sync /home/spracto/Documents/Code/JavaScript/react/homeBase s3://demoreactapp --delete
+      - aws s3 sync /home/ubuntu/demoreactapp s3://demoreactapp --delete
