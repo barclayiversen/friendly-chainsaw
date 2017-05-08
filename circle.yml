@@ -5,4 +5,4 @@ deployment:
   prod:
     branch: master
     commands:
-      - aws s3 sync /home/ubuntu/friendly-chainsaw s3://demoreactapp --delete
+      - aws s3 sync /home/ubuntu/friendly-chainsaw s3://demoreactapp.barclay.me --delete
