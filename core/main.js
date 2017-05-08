@@ -1,7 +1,5 @@
 //
-// (c) 2016-XX, PJ$
-// me@pjstein.co
-// home.base
+
 //
 // core/main.js
 //
