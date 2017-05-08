@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prestart": "npm install",
+    "postinstall": "webpack",
     "start": "bin/light-up --port=9090"
   },
   "repository": {
